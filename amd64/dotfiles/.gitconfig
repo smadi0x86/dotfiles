@@ -57,3 +57,5 @@
 	# Emergency
 	unstage = reset HEAD --
 	abort = reset --hard HEAD~1
+[init]
+	defaultBranch = main
